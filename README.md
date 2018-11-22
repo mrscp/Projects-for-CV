@@ -27,6 +27,6 @@
 ## PHP, MySQL, JavaScript
 
 
-  * [Online Demo link](https://github.com/mrscp/Online-Campus) - You can have a dummy account by clicking Get Dummy Account Button. It is actually a Educational Social Network. Teachers and students can collaborate here by posting course meterials and with direct messaging system. [Source Code](https://github.com/mrscp/Online-Campus)
+  * [Online Demo link](https://github.com/mrscp/Online-Campus) - You can have a dummy account by clicking Get Dummy Account Button. It is actually a Educational Social Network. Teachers and students can collaborate here by posting course meterials and with direct messaging system. [Source Code](https://github.com/mrscp/Online-Campus) for this product.
   
   * [YouTube for Pakistan](https://www.youpak.com/) - I develed it for freelancing purpose, as YouTube is banned in pakistan so one of my client asked for a website like YouTube using YouTube API.
