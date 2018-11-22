@@ -1,5 +1,10 @@
 # List of My Projects
   
+## Publication
+  
+  
+  * Bangla Sentence Correction Using Deep Neural Network Based Sequence to Sequence Learning - accepted in ICCIT 2018
+  
   
 ## Java and Artificial Intelligence
 
@@ -29,5 +34,5 @@
   * [PUBG Win Probability Prediction (Google Colab)](https://colab.research.google.com/drive/1VLsjEHMXXCvJOT_Q8geTfK7ogTf0N2tf) - It is another kaggle dataset that I worked with and it is another CNN model.
   
   
-  * [Face Recognition with KNN (Github Repository with Demo Video)](https://github.com/mrscp/FaceRecognitionStream) - Used opencv framework for image processing and opencv KNN for classify the face. [Demo Video link](https://www.youtube.com/watch?v=k8V3_dEH0Rc&t=4s)
+  * [Face Recognition with KNN (Github Repository with Demo Video)](https://github.com/mrscp/FaceRecognitionStream) - Used opencv framework for image processing and opencv KNN for classify the face. Please visit [here.](https://www.youtube.com/watch?v=k8V3_dEH0Rc&t=4s) for demo.
   
