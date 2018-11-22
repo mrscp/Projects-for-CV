@@ -3,7 +3,7 @@
 ## Publication
   
   
-  * Bangla Sentence Correction Using Deep Neural Network Based Sequence to Sequence Learning - accepted in ICCIT 2018 - Conference appeared
+  * [Bangla Sentence Correction Using Deep Neural Network Based Sequence to Sequence Learning](http://dspace.uiu.ac.bd/handle/52243/436) - This paper has been accepted in ICCIT 2018. Conference is appeared, it will be held in December 2018 (most probably).
   
   
 ## Java and Artificial Intelligence
